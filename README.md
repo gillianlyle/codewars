@@ -1,2 +1,2 @@
 # codewars
-Challenges from codewars.com
+Coding challenges from codewars.com
